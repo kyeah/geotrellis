@@ -31,4 +31,4 @@ object Version {
   val monocle     = "1.0.1"
   lazy val hadoop      = Environment.hadoopVersion
   lazy val spark       = Environment.sparkVersion
-}
+  lazy val cassandra_connector = "1.2.0-alpha2"
